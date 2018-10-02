@@ -4,4 +4,4 @@ function demo(name)
 }
 
 demo('file2')
-console.log('branch2')
+console.log('master')
