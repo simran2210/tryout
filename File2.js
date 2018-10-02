@@ -1,1 +1,6 @@
-console.log('Balsharan Bedi')
+function demo(name)
+{
+    console.log('hello'+name)
+}
+
+demo('Ballu')
